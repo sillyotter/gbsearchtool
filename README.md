@@ -1,4 +1,4 @@
 gbsearchtool
 ============
 
-Google books search api command line took
+Google books search api command line tool
